@@ -12,3 +12,5 @@ void main()
         printf(" %d %d\n", p, q);
     }
 }
+
+// ./a.out <test1
