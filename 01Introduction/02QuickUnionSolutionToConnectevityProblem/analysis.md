@@ -5,13 +5,21 @@
 It's hard to work this out analytically, but we know that in some cases this _can_ be slowe than Quick-Find. It's possible, for example, for the connections to worm a long chain.
 
 0 1
+
 1 2
+
 2 3
+
 3 4
+
 4 5
+
 5 6
+
 6 7
+
 7 8
+
 8 9
 
 So: we end up with:
