@@ -33,6 +33,6 @@ So: we end up with:
 
 etc
 
-avg number of steps is (1+2+3+..+N-1)/2 = (N\*(N-1))/(2N) = (N-1)/2
+avg number of steps is (1+2+3+..+N-1)/N = (N\*(N-1))/(2N) = (N-1)/2
 
 If the remainder of the pairs connect N to some other object, then they will wind up at the end of the list. Thus, each of those other objects will take over N-1 pointers.
